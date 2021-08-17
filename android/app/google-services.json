@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842634744573",
+    "project_id": "codehouse-61f5b",
+    "storage_bucket": "codehouse-61f5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842634744573:android:8da79cc95c237b3233a494",
+        "android_client_info": {
+          "package_name": "com.codehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842634744573-jgvnsj16qnck2qc5r3a80oe1h3357aef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwBEm6do2YslI5WYEnxljJaZyB6cN_TgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842634744573-jgvnsj16qnck2qc5r3a80oe1h3357aef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
