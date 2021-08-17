@@ -41,7 +41,6 @@ git clone https://github.com/izbari/codeHouse
 
 ![Project Logo](https://firebasestorage.googleapis.com/v0/b/ticketify-d3ea8.appspot.com/o/b80f4a6d-355a-49c6-b721-67183bb37fbf.jpg?alt=media&token=154320dd-f65f-427d-bf4a-0678ca33d4a8)
 
-![Project Logo](https://firebasestorage.googleapis.com/v0/b/ticketify-d3ea8.appspot.com/o/00736671-15fe-45ae-9c2c-29a564e091ad.jpg?alt=media&token=3ddd64f1-77fa-4978-b78e-cc072fa045e7)
 
 
 
